@@ -1,0 +1,219 @@
+[
+    {
+        "slug": "coding-debugging",
+        "title": "Runtime Error",
+        "image": "./images/runtime-error.webp",
+        "quote": "Code is like humour. When you have to explain it, it's bad.",
+        "description": "The perfect platform for you to express your love for coding and test your critical thinking. Participants will solve a series of questions which will test the general knowledge and programming skills in a race against time.",
+        "round1": "Coding Round",
+        "round2": "Competitive Coding Round",
+        "round3": "null",
+        "instruction": [
+            "This is a team event, two members per team.",
+            "The participants are required to have a working HackerRank account before registering for the event.",
+            "The mail used for HackerRank and registering for the event must be the same to avoid any ambiguity.",
+            "The participants are not allowed to use any third-party application in search for answers, if found, will lead to disqualification.",
+            "The result declared by the judge is final."
+        ],
+        "coordinators": [
+            {
+                "name": "Ritik makhija",
+                "number": "+91 8269591710"
+            },
+            {
+                "name": "Anand Choudhary",
+                "number": "+91 9148674004"
+            },
+            {
+                "name": "Vansh Shah",
+                "number": "+91 9099897859"
+            }
+        ]
+
+    },
+    {
+        "slug": "fast-typing",
+        "title": "Fast of furious",
+        "image": "./images/fast-typing.webp",
+        "quote": "A film is a petrified fountain of thought. ",
+        "description": "To showcase your creativity and skills on the given theme. Explore your love for film making without hesitation. Clean your lenses and get started.",
+        "round1": "Film Making",
+        "round2": "null",
+        "round3": "null",
+        "instruction": [
+            "Topic will be provided by the event organizers.",
+            "Length of the video should be 2 to 2:30 minutes.",
+            "The size of the video should not exceed 150mb.",
+            "Plagiarism will lead to disqualification.",
+            "The video should be uploaded on \" Wetransfer \" and the link should be shared via email.",
+            "Vulgarity, racism and derogatory language is strictly prohibited."
+        ],
+        "coordinators": [
+            {
+                "name": "Nilanjan Chakraborthy",
+                "number": "+91 9330310668"
+            },
+            {
+                "name": "Vetrivel Selvam",
+                "number": "+91 7411013093"
+            }
+        ]
+    },
+    {
+        "slug": "it-Manager",
+        "title": "Techknack",
+        "image": "./images/event-5.webp",
+        "quote": "Innovation distinguishes between a leader and a follower.",
+        "description": "The perfect platform to showcase your overall skills in planning and leading in computer-related activities in an organisation and how you would manage and navigate the always changing labyrinth that is the modern technology.",
+        "round1": "Objective Questions",
+        "round2": "Presentation",
+        "round3": "Stress Buster",
+        "instruction": [
+            "This is an individual event.",
+            "Any sort of misbehaviour will lead to disqualification.",
+            "Round 1 - Objective Questions",
+            "Round 2 - Presentation",
+            "Round 3 - Stress Buster / Interview Round"
+        ],
+        "coordinators": [
+            {
+                "name": "Priyadarshan Giri",
+                "number": "+91 9481026629"
+            },
+            {
+                "name": "Sandesh Devaiah",
+                "number": "+91 9008027802"
+            },
+            {
+                "name": "Safiya G",
+                "number": "+91 9742076039"
+            }
+        ]
+    },
+    {
+        "slug": "treasure-hunt",
+        "title": "Sparrow's chest",
+        "image": "./images/event-3.webp",
+        "quote": "Not all treasure is gold and silver, mate.",
+        "description": "Treasure Hunt puts the team's collective intelligence to the test. Each hint goes to a nearby place where players must collect and apply critical information to answer a question. This information may be words from an anime, a series of Netflix or Amazon Prime, or any other one-of-a-kind thing that many of us passing down the street would pass by if we weren't looking for it.",
+        "round1": "Puzzle Round(Elimination)",
+        "round2": "The Hunt For Treasure",
+        "round3": "null",
+        "instruction": [
+            "This is a team event and each team consists of 5 members.",
+            "Only 4 teams will be qualified for the final round.",
+            "Theme of first round will be pop culture.",
+            "The duration for the first round is 20 minutes.",
+            "The duration for the second round is 1 hour"
+        ],
+        "coordinators": [
+            {
+                "name": "Mukunthan Nagarajan",
+                "number": "+91 9619849130"
+            },
+            {
+                "name": "Tanupam Saha",
+                "number": "+91 8617366927"
+            },
+            {
+                "name": "Ameesha Charnaiya",
+                "number": "+91 7843075725"
+            }
+        ]
+    },
+    {
+        "slug": "web-developiing",
+        "title": "Web Weaver",
+        "image": "./images/event-4.webp",
+        "quote": "Design is not just what it looks like and feels like. Design is how it works.",
+        "description": "Web development encompasses many different skills and disciplines in the production of website. This event focus on bringing out the inner web developer within you. Showcase your creativity and test yourself round the clock and create the best. It is all about Design vs Time.",
+        "round1": "Debugging HTML,CSS and JS",
+        "round2": "Webpage Development",
+        "round3": "null",
+        "instruction": [
+                "The first round will be of debugging of web design.",
+                "The code will be shared via mail and participant has to push the to Github or send the debugged file to the given mail via WeTransfer.com",
+                "The second round will be developing the front-end webpage for a given UI design.",
+                "Website must be devloped only using HTML, CSS and JS.",
+                "Participant has to carry all the necessary equipment."
+        ],
+        "coordinators": [
+            {
+                "name": "Afiq Nuaim Ekkeri",
+                "number": "+91 8884340860"
+            },
+            {
+                "name": "Mohit Pal",
+                "number": "+91 9843331426"
+            },
+            {
+                "name": "Amr Rawaha",
+                "number": "+91 9886958910"
+            }
+        ]
+    },
+    {
+        "slug": "gaming",
+        "title": "Game X",
+        "image": "./images/event-6.webp",
+        "quote": "Stay Low, Go Fast. Kill First, Die Last. One Shot, One Kit!. No Luck, Att Skilt.",
+        "description": "You either Counter or Strike first to ensure your victory over your enemies, this is all this first-person game is all about. The main goal of this game is the idea of two teams, bad guys vs the good guys. You choose who you wanna be, the Colt 1911 or the AK47. So, what's stopping you? Grab your gears and accept the challenge.",
+        "round1": "null",
+        "round2": "null",
+        "round3": "null",
+        "instruction": [
+            "There will be a total of 10 rounds, for every 5 rounds that completes, the teams will be swapped.",
+            "Each team should consist of 5 members.",
+            "Any team having less than 4 team players will not be allowed to participate.(If enrolled and later has less players the entry fees will not be reimbursed)",
+            "Any team subjected to malpractice such as cheating or using cheat codes will be directly disqualified.",
+            "Teams that enter the semi-finals and finals will be allowed to select their desired.",
+            "maps out of the given 5 maps. (The power to decide the map will be given by toss)"
+        ],
+        "coordinators": [
+            {
+                "name": "Rajesh SH",
+                "number": "+91 7338077439"
+            },
+            {
+                "name": "Kavya E",
+                "number": "+91 8884971164"
+            },
+            {
+                "name": "Sowmyajit",
+                "number": "+91 8770628254"
+            }
+        ]
+    },
+    {
+        "slug": "it-Quiz",
+        "title": "Technova",
+        "image": "./images/event-7.webp",
+        "quote": "There is no cramming for test of character, it always comes as a pop quiz.",
+        "description": "This event is explicitly created to express your love for tech knowledge. This event will surely put every corner of your brain to work.",
+        "round1": "Selection or elimination round",
+        "round2": "Selection round.",
+        "round3": "Finals",
+        "instruction": [
+            "This is a team event, two members per team.",
+            "The participants are not allowed to use any third-party application in search for answers, if found, will lead to disqualification.",
+            "The result declared by the judge is final.",
+            "Round 1 - Selection or elimination round.",
+            "Round 2 - Selection round.",
+            "Round 3 - Finals."
+        ],
+        "coordinators": [
+            {
+                "name": "Siddharth Sundar",
+                "number": "+91 9003238152"
+            },
+            {
+                "name": "Srishti Bhayana",
+                "number": "+91 8708614819"
+            },
+            {
+                "name": "Disha Gowda",
+                "number": "+91 7618720518"
+            }
+        ]
+    }
+]

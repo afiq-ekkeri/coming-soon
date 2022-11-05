@@ -1,0 +1,216 @@
+
+/*************************************************
+                  hero-section styles
+*************************************************/
+
+.hero-section {
+    overflow-y: visible;
+    padding-top: 42px;
+}
+.hero-underlay {
+    position: absolute;
+    top: calc(var(--nav-total-height) * -1);
+    left: 0;
+    right: 0;
+    height: 150%;
+    background: rgb(0,20,71);
+    background: linear-gradient(180deg, rgba(0,20,71,1) 0%, rgba(0,10,36,1) 100%);
+    z-index: 0;
+}
+.hero-banner-container {
+    display: flex;
+    align-items: center;
+}
+.hero-info-col {
+    flex: 1;
+}
+.hero-graphics-col {
+    flex: 1.2;
+    height: 100%;
+}
+.hero-info-container {
+    max-width: 515px;
+}
+.hero-info-container .hero-tagline {
+    max-width: 444px;
+    font-size: 20px;
+    color: rgb(255, 255, 255, .6);
+    margin-bottom: 32px;
+    line-height: 1.2;
+}
+.hero-info-container .section-title {
+    margin-bottom: 12px;
+}
+.section-title {
+    font-size: 66px;
+    font-weight: 700;
+    line-height: 1.1;
+}
+.button-group {
+    display: flex;
+    gap: 16px;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.hero-graphics-wrapper {
+    height: 100%;
+    width: 100%;
+    position: relative;
+    max-width: 725px;
+    max-height: 643px;
+}
+.hero-graphics-wrapper > div {
+    position: unset !important;
+}
+.hero-graphics {
+    object-fit: contain;
+    width: 100% !important;
+    position: relative !important;
+    height: unset !important;
+}
+.gradient-button-container {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+.gradient-button-container button {
+    background-color: #000A24;
+    border-radius: 6px;
+    padding: 17px 28px;
+    color: #fff;
+    border: unset;
+    font-size: 18px;
+    font-weight: 700;
+    z-index: 1;
+    position: relative;
+}
+.gradient-btn-underlay {
+    position: absolute;
+    inset: -1px;
+    border-radius: 6px;
+    background: rgb(143,186,254);
+    background: linear-gradient(45deg, rgba(143,186,254,1) 0%, rgba(191,46,161,1) 33%, rgba(254,203,49,1) 66%, rgba(252,85,95,1) 100%);
+}
+.video-button {
+    display: flex;
+    padding: 18px 30px;
+    align-items: center;
+    border: unset;
+    background-color: rgba(162, 232, 255, 0.05);
+    border-radius: 6px;
+    color: #fff;
+    font-size: 18px;
+    justify-content: center;
+}
+.video-button img {
+    margin-right: 9px;
+    margin-top: -2px;
+}
+
+/*************************************************
+                  event-section styles
+*************************************************/
+.event-section {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    top: var(--event-section-negative-offset);
+}
+.waves-container {
+    width: 100%;
+    height: var(--event-section-padding-top);
+    z-index: -1;
+}
+.waves-container img {
+    width: 100vw;
+    object-fit: cover;
+    object-position: 50% 0%;
+}
+.event-section .section-title {
+    margin-bottom: 50px;
+}
+.event-grid {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 1rem;
+}
+.card-container {
+    width: 25%;
+    padding: 0.5rem;
+}
+@media (max-width: 1399.98px) {
+    .hero-info-col {
+        flex: 1;
+        font-size: 50px;
+    }
+    .hero-graphics-col {
+        flex: 1;
+    }
+}
+@media (max-width: 1199.98px) {
+    .section-title {
+        font-size: 41px;
+    }
+    .hero-section {
+        padding-bottom: 60px;
+    }
+    .video-button, .gradient-button-container button {
+        font-size: 14px;
+        min-width: 146px;
+        white-space: nowrap
+    }
+    .hero-info-container .hero-tagline {
+        font-size: 16px;
+    }
+    .card-container {
+        width: 33.3%;
+    }
+}
+@media (max-width: 991.98px) { 
+    .card-container {
+        width: 50%;
+    }
+}
+@media (max-width: 767.98px) { 
+    .hero-banner-container.container {
+        flex-direction: column;
+        align-items: flex-start;
+        height: unset;
+    }
+    .hero-section {
+        padding-top: 94px;
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+    }
+    .hero-graphics-col {
+        width: 100%;
+        padding-top: 24px;
+        flex: 0;
+        height: unset;
+    }
+    .hero-info-col {
+        flex: 0;
+    }
+    .hero-graphics-wrapper {
+        height: 90vw;
+        max-height: 450px;
+    }
+}
+@media (max-width: 575.98px) { 
+    .button-group {
+        flex-flow: column;
+    }
+    .video-button, .gradient-button-container , .gradient-button-container button {
+        width: 100%;
+    }
+    .card-container {
+        width: 100%;
+    }
+    .event-grid {
+        padding: unset;
+    }
+ }
+ 

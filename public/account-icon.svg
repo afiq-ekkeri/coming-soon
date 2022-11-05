@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="22px" viewBox="0 0 20 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Medium-Copy-2" transform="translate(-490.000000, -1929.000000)">
+            <g id="Group" transform="translate(490.000000, 1930.000000)">
+                <polygon id="Path" fill-opacity="0.3" fill="#FFFFFF" fill-rule="nonzero" points="20 6.5 0 6.5 0 20.5 20 20.5"></polygon>
+                <path d="M10,15 C6.96,15 4.5,17.46 4.5,20.5 C4.51,20.5 15.5,20.5 15.5,20.5 C15.5,17.46 13.04,15 10,15 Z" id="Path" fill-opacity="0.6" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <path d="M10,15 C11.5188,15 12.75,13.7688 12.75,12.25 C12.75,10.7312 11.5188,9.5 10,9.5 C8.4812,9.5 7.25,10.7312 7.25,12.25 C7.25,13.7688 8.4812,15 10,15 Z" id="Path" fill-opacity="0.6" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <line x1="6" y1="0.5" x2="14" y2="0.5" id="Path" stroke-opacity="0.6" stroke="#FFFFFF" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="3" y1="3.5" x2="17" y2="3.5" id="Path" stroke-opacity="0.6" stroke="#FFFFFF" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"></line>
+            </g>
+        </g>
+    </g>
+</svg>
