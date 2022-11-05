@@ -45,7 +45,7 @@ export default function navbar({}: Props) {
                                     </Link>
                                 </li>
                                 <li className="nav-item">
-                                    <Link className="nav-link" href="#events">
+                                    <Link href="/" className="nav-link">
                                         <span className="nav-link-icon">
                                             <Image
                                                 src={eventsIcon}
@@ -58,7 +58,7 @@ export default function navbar({}: Props) {
                                     </Link>
                                 </li>
                                 <li className="nav-item">
-                                    <Link className="nav-link" href="#">
+                                    <Link href="/" className="nav-link">
                                         <span className="nav-link-icon">
                                             <Image
                                                 src={aboutIcon}
@@ -71,7 +71,7 @@ export default function navbar({}: Props) {
                                     </Link>
                                 </li>
                                 <li className="nav-item">
-                                    <Link href="/register" className={router.pathname == "/register" ? "nav-link active" : "nav-link"}>
+                                    <Link href="/" className="nav-link">
                                         <span className="nav-link-icon">
                                             <Image
                                                 src={registerIcon}

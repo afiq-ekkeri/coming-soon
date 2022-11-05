@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="10px" viewBox="0 0 16 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Medium-Copy-6" transform="translate(-362.000000, -1617.000000)" stroke="#A2E8FF" stroke-width="1.6">
+            <g id="Rectangle" transform="translate(70.000000, 1401.000000)">
+                <g id="Group" transform="translate(293.000000, 217.000000)">
+                    <line x1="5.82867088e-16" y1="4" x2="14" y2="4" id="Path"></line>
+                    <polyline id="Path" points="10.08 0 14 4 10.08 8"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

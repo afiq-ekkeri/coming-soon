@@ -29,24 +29,9 @@ const Home: NextPage = () => {
                     <div className="hero-info-col">
                         <div className="hero-info-container">
                             <h1 className="section-title">
-                                Enter the Nexus of Creativity
+                                Coming Soon
                             </h1>
-                            <p className="hero-tagline">sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
-                            <div className="button-group">
-                                <div className="gradient-button-container">
-                                    <div className="gradient-btn-underlay"></div>
-                                    <button>Sign up Now!!</button>
-                                </div>
-                                <button className="video-button">
-                                    <Image
-                                        src={playIcon}
-                                        alt="Nexus"
-                                        height={17}
-                                        width={13}
-                                    />
-                                    Play Video
-                                </button>
-                            </div>
+                            <p className="hero-tagline">Registrations will start from 7th Nov, Stay tuned.</p>
                         </div>
                     </div>
                     <div className="hero-graphics-col">
@@ -67,32 +52,7 @@ const Home: NextPage = () => {
                     <img src="/wave.svg" alt="wave" />
                 </div>
                 <div className="event-section-inner">
-                    <div className="container centered">
-                        <h2 className="section-title">Events</h2>
-                        <div className="event-grid">
-                            <div className="card-container">
-                                <EventCard/>
-                            </div>
-                            <div className="card-container">
-                                <EventCard/>
-                            </div>
-                            <div className="card-container">
-                                <EventCard/>
-                            </div>
-                            <div className="card-container">
-                                <EventCard/>
-                            </div>
-                            <div className="card-container">
-                                <EventCard/>
-                            </div>
-                            <div className="card-container">
-                                <EventCard/>
-                            </div>
-                            <div className="card-container">
-                                <EventCard/>
-                            </div>
-                        </div>
-                    </div>
+
                 </div>
             </section>
         </>
