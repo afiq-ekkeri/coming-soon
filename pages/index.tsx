@@ -31,7 +31,7 @@ const Home: NextPage = () => {
                             <h1 className="section-title">
                                 Coming Soon
                             </h1>
-                            <p className="hero-tagline">Registrations will start from 7th Nov, Stay tuned.</p>
+                            <p className="hero-tagline">Registrations will start from 10th Nov, Stay tuned.</p>
                         </div>
                     </div>
                     <div className="hero-graphics-col">
